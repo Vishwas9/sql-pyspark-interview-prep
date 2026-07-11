@@ -27,7 +27,8 @@ company" — specifically around SQL query optimization and PySpark performance 
 
 ## Daily Log
 <!-- Add one line per day, most recent first -->
-- **Day 1** (July 11): Execution plans — EXPLAIN ANALYZE on 3 queries. [Link to commit/file]
+- **Day 0** (July 11): Full environment setup completed — Docker, WSL2, Postgres, DBeaver, Pagila dataset, PySpark all verified working.
+- **Day 1** (July 12): Execution plans — EXPLAIN ANALYZE on 3 queries. [Link to commit/file]
 
 ## Tech stack
 Postgres (Docker), PySpark, Databricks Free Edition
